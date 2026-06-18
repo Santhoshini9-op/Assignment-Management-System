@@ -64,7 +64,7 @@ The Assignment Management System provides separate interfaces for students and t
 
 [(Add screenshots here)](https://github.com/Santhoshini9-op/Assignment-Management-System/blob/main/Screenshot%202026-06-18%20212236.png)
 [[(Add screenshots here)]](https://github.com/Santhoshini9-op/Assignment-Management-System/blob/main/Screenshot%202026-06-18%20212358.png)
-[(Add screenshots here)]
+[[(Add screenshots here)]](https://github.com/Santhoshini9-op/Assignment-Management-System/blob/main/Screenshot%202026-06-18%20212441.png)
 [(Add screenshots here)]
 
 ## Figma File
